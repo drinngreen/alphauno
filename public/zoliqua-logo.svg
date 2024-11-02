@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="40" viewBox="0 0 160 40" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="30" font-family="Arial" font-size="32" font-weight="bold" fill="#00D1B2">ZOLIQUA</text>
+  <path d="M150 20 C 150 20, 160 20, 160 30" stroke="#00D1B2" stroke-width="2" fill="none"/>
+</svg>
